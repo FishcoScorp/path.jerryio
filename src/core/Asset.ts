@@ -424,6 +424,15 @@ export class AssetManager {
 }
 
 const builtInAssets: FieldImageAsset<FieldImageOriginType>[] = [
+  // RECF Achieve 2026-2027: Pinnacle
+  // Official field illustration from the RECF Achieve Game Manual v1.2.
+  // Pinnacle is played on a 12 ft x 12 ft field.
+  createBuiltInFieldImage(
+    "RECF Achieve 2027 - Pinnacle",
+    3657.6,
+    "https://games.recf.org/manuals/uploads/a793ff6f-b620-4583-8511-f2c6eac29a9f.png",
+    "RECF-Achieve-Pinnacle-2027"
+  ),
   // 3683 = 145*2.54*10 ~= 3676.528, the size of the field perimeter in Fusion 360
   // Field image file name: Competition-Season-Setup-View-Theme@SemVer.png
   createBuiltInFieldImage(
