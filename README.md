@@ -1,10 +1,16 @@
 <p align="center">
 	<a href="https://path.jerryio.com/"><img src="./public/static/logo464.svg" alt="IntroIcon" width="100"></a>
 </p>
-<h3 align="center">PATH.JERRYIO</h3>
-<p align="center">The best path editor in VRC for designing skills routes and generating path files.</p>
+<h3 align="center">PATH.JERRYIO — PINNACLE</h3>
+<p align="center">A Pinnacle-focused fork of PATH.JERRYIO for planning RECF Achieve 2026–2027 routes on the official 12×12 field.</p>
 
 ---
+
+## Pinnacle Edition
+
+This fork adds the RECF Achieve 2026–2027 game, Pinnacle, as the default built-in field. Pinnacle is played on a 12 ft × 12 ft field with cups, pins, goals, loaders, and rollers. The built-in field artwork is the official RECF Achieve field illustration.
+
+The current official Q&A assigns AprilTags as follows: Center Goal = 0, Neutral Zone 1 = 1, Neutral Zone 2 = 4, Red Goals = 2, and Blue Goals = 3.
 
 ## Introduction
 
